@@ -32,7 +32,7 @@ Creating an app that pulls in live updates, keeping users connected to breaking 
 
 ## 📬 Connect with Me
 
-Want to chat about tech, get help with frontend development, or just say hi? Find me on [Facebook](https://www.facebook.com/yourusername) – I’d love to connect!
+Want to chat about tech, get help with frontend development, or just say hi? Find me on [Facebook](https://www.facebook.com/profile.php?id=61567056483128) – I’d love to connect!
 
 ---
 
